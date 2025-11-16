@@ -1,16 +1,43 @@
-## Hi there 👋
 
-<!--
-**Beryith/Beryith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi,I'm Beryith Katanga 👋🏽
+🎓**Computer Science Major**
 
-Here are some ideas to get you started:
+Protestant University of Congo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨🏾‍💻 About Me
+
+💡Passionate about cybersecurity, embedded systems, problem-solving, and tool creation.   
+🤖Interested in robotics and AI advancements, both for research and everyday life.  
+🖥Currently learning React for web development, while continuing to work on Python and other languages like Go.  
+🤝I enjoy working on projects with a team, as it helps me learn faster.
+
+## 🦾Skills
+🐍**Python**(strongest language).  
+🐹**Go**(Golang)  
+☕️**Java**  
+💻**C**  
+🌐**HTML,CSS,JavaScript**  
+⚙️**Object-Oriented Programming** (OOP)  
+🧑🏾‍💼**Learns quickly and enjoys working in a team**
+## 💬Languages & Tools
+Here are some languages and tools I use or have used for work and study.
+
+**🧠Programming Languages:**  
+Python,Java,C,Go,SQL,JavaScript,TypeScript,Ruby
+
+**🛠 Frameworks & Tools:**  
+Git/GitHub, Visual Studio Code, Windsurf, PyCharm, WebStorm, Cisco Packet Tracer, React, NextJS, Linux, Node.js 
+## ⭐️Featured Projects
+
+📁**Resume Builder**  
+A web development project built with HTML, CSS, and JavaScript, designed to generate a CV from the information entered in the appropriate fields. When regenerating, the CV can be saved as a PDF  
+
+ **🪲Ghast-Bug tracking tool**  
+A bug tracking tool developed with TypeScript, capable of catching errors in code and adding them to the bug list for multiple ongoing projects, allowing us to keep track of them. 
+ 
+**Dots-QR Code generator**  
+A project built with HTML, CSS, and JavaScript that creates QR codes from text or URLs.
+
+
+## 📫Contact Me
+📧 berithkatanga86@gmail.com
