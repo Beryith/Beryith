@@ -13,11 +13,11 @@ Protestant University of Congo
 
 ## 🦾Skills
 🐍**Python**(strongest language).  
-🐹**Go**(Golang)  
+🐹**Go**(currently learning)  
 ☕️**Java**  
-💻**C**  
+💻**C**  (currently learning)
 🌐**HTML,CSS,JavaScript**  
-⚙️**Object-Oriented Programming** (OOP)  
+⚙️**Object-Oriented Programming** (currently learning)  
 🧑🏾‍💼**Learns quickly and enjoys working in a team**
 ## 💬Languages & Tools
 Here are some languages and tools I use or have used for work and study.
