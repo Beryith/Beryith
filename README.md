@@ -11,6 +11,13 @@ Protestant University of Congo
 🖥Currently learning React for web development, while continuing to work on Python and other languages like Go.  
 🤝I enjoy working on projects with a team, as it helps me learn faster.
 
+## 📊 Mes Statistiques GitHub
+
+![Berith's GitHub stats](https://github-readme-stats.vercel.app/api?username=Beryith&show_icons=true&theme=radical)
+
+## 🔥 Langages les plus utilisés
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Beryith&layout=compact&theme=radical)
+
 ## 🦾Skills
 🐍**Python**(strongest language).  
 🐹**Go**(currently learning)  
