@@ -15,7 +15,7 @@ Protestant University of Congo
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Beryith&theme=react&border_radius=8.6)](https://git.io/streak-stats)
 ## 🔥 Langages les plus utilisés
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Beryith)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Beryith)](https://github.com/Pranesh-2005/github-readme-stats)
 ## 🦾Skills
 🐍**Python**(strongest language).  
 🐹**Go**(currently learning)  
