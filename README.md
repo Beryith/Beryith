@@ -13,8 +13,7 @@ Protestant University of Congo
 
 ## 📊 My GitHub's Stats
 
-![Berith's GitHub stats](https://github-readme-stats.vercel.app/api?username=Beryith&show_icons=true&theme=radical)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=Beryith&theme=react&border_radius=8.6)](https://git.io/streak-stats)
 ## 🔥 Langages les plus utilisés
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Beryith&layout=compact&theme=radical)
 
