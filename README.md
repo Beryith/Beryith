@@ -12,7 +12,7 @@ Protestant University of Congo
 🤝I enjoy working on projects with a team, as it helps me learn faster.
 
 ## 📊 My GitHub's Stats
-
+![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Beryith&show_icons=true&bg_color=00000000)
 [![GitHub Streak](https://streak-stats.demolab.com?user=Beryith&theme=react&border_radius=8.6)](https://git.io/streak-stats)
 ## 🔥 Langages les plus utilisés
 [![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Beryith)](https://github.com/Pranesh-2005/github-readme-stats)
