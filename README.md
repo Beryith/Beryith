@@ -15,7 +15,7 @@ Protestant University of Congo
 ![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Beryith&show_icons=true&bg_color=00000000)
 
 
-## 🔥 Langages les plus utilisés
+## 🔥 Most used languages
 [![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Beryith)](https://github.com/Pranesh-2005/github-readme-stats)
 ## 🦾Skills
 🐍**Python**(strongest language).  
