@@ -19,12 +19,19 @@ Protestant University of Congo
 [![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Beryith)](https://github.com/Pranesh-2005/github-readme-stats)
 ## 🦾Skills
 🐍**Python**(strongest language).  
+
 🐹**Go**(currently learning)  
+
 ☕️**Java**  
-💻**C**  (currently learning).
+
+💻**C**  (currently learning). 
+
 🔧**Bash, PowerShell** (currently learning).
+
 🌐**HTML,CSS,JavaScript**  
+
 ⚙️**Object-Oriented Programming** (currently learning)  
+
 🧑🏾‍💼**Learns quickly and enjoys working in a team**
 ## 💬Languages & Tools
 Here are some languages and tools I use or have used for work and study.
