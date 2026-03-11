@@ -22,6 +22,7 @@ Protestant University of Congo
 🐹**Go**(currently learning)  
 ☕️**Java**  
 💻**C**  (currently learning)
+🔧**Bash, PowerShell** (currently learning)
 🌐**HTML,CSS,JavaScript**  
 ⚙️**Object-Oriented Programming** (currently learning)  
 🧑🏾‍💼**Learns quickly and enjoys working in a team**
