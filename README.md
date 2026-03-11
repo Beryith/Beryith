@@ -21,8 +21,8 @@ Protestant University of Congo
 🐍**Python**(strongest language).  
 🐹**Go**(currently learning)  
 ☕️**Java**  
-💻**C**  (currently learning) 
-🔧**Bash, PowerShell** (currently learning)
+💻**C**  (currently learning).
+🔧**Bash, PowerShell** (currently learning).
 🌐**HTML,CSS,JavaScript**  
 ⚙️**Object-Oriented Programming** (currently learning)  
 🧑🏾‍💼**Learns quickly and enjoys working in a team**
